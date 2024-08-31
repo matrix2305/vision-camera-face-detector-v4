@@ -34,14 +34,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/trustee-wallet/vision-camera-trustee-face-detector-v3"
+    "url": "https://github.com/matrix2305/vision-camera-face-detector-v4"
   },
   "author": "Tarik",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/trustee-wallet/vision-camera-trustee-face-detector-v3"
+    "url": "https://github.com/matrix2305/vision-camera-face-detector-v4"
   },
-  "homepage": "https://github.com/trustee-wallet/vision-camera-trustee-face-detector-v3",
+  "homepage": "https://github.com/matrix2305/vision-camera-face-detector-v4",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
