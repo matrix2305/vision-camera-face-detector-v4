@@ -2,7 +2,7 @@
   "compilerOptions": {
     "rootDir": ".",
     "paths": {
-      "vision-camera-face-detector": ["./src/index"]
+      "vision-camera-face-detector-v4": ["./src/index"]
     },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
